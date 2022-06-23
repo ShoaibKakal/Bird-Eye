@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/drawable/background_comment.xml" value="0.1555" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/drawable/background_miscellaneous.xml" value="0.1555" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/drawable/ic_flag.xml" value="0.1555" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/activity_location_permission.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/fragment_feedback.xml" value="0.19581017528858485" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/fragment_home.xml" value="0.20599409033347404" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/fragment_maps.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/BirdsEye/app/src/main/res/layout/layout_miscellaneous.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
